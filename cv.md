@@ -16,8 +16,7 @@ My main goal now - it is the development of my professional skills. I have some 
 ## Professional Experience
 Freelance (Since 2013)
 ## Education
-`2002-2013` Gymnasium №71, Gomel
-***
+`2002-2013` Gymnasium №71, Gomel  
 `2013-2014` Unfinished - Belarusian University of Trade and Economics Consumer Cooperation
 ## Foreign languages
 English `A2`
